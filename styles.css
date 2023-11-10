@@ -18,3 +18,11 @@ ul {
     display: flex;
     justify-content: space-between;
 }
+
+.bottom-first-section-right {
+    border: solid;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
